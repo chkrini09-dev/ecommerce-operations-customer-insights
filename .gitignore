@@ -1,0 +1,12 @@
+# Raw dataset files
+data/*.csv
+
+# Temporary and system files
+Thumbs.db
+.DS_Store
+*.tmp
+
+# Credentials and environment settings
+.env
+.env.*
+!.env.example
